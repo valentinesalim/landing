@@ -1,0 +1,40 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    padding: 200px;
+}
+  
+.banner .container {
+    width: 900px;
+    margin-left: -120px;
+    margin-top: 500px;
+}
+  
+.banner h1 {
+    color: rgb(72, 74, 77);
+    font-size: 60px;
+    margin-top: -50px;
+}
+  
+.banner p {
+    background-color: white;
+    font-size: 32px;
+    font-weight: 500;
+    color: #00263b;
+    opacity: 0.8;
+    line-height: 1.4em;
+    margin: 0px;
+    margin-top: -50px;
+}
+  
+.banner a {
+    display: inline-block;
+    background-color: #e25238;
+    padding: 15px 30px;
+    color: #fafdff;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 4px;
+
+}

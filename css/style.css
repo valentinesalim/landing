@@ -3,6 +3,11 @@
 
 /* Fontawesome */
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url(components/banner.css);
+@import url(components/container.css);
+@import url(components/cards.css);
+@import url(components/card.css);
+@import url(components/footer.css);
 
 /* Utilities */
 body {
@@ -20,3 +25,7 @@ a {
 
 /* Custom design below! */
 
+.banner {
+  height: 800px;
+  background-repeat: no-repeat;
+}
